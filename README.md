@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **About Data Science,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GuidoSimoncini](https://github.com/GuidoSimoncini)
+- 👨‍💻 All of my projects are available at [https://github.com/GuidoSimoncini?tab=repositories](https://github.com/GuidoSimoncini?tab=repositories)
 
 - 📫 How to reach me **guidossimoncini@gmail.com**
 
