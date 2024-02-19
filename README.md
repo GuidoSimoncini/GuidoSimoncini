@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guido</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🔭 I’m currently working on **a sales study with an adidas dataset.**
+- 🔭 I’m currently working on **a personal project, on a Strength Training database which I am building, in order to track progressive overload and muscle growth.**
 
 - 🌱 I’m currently learning **About Data Science,**
 
