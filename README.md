@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a personal project, on a Strength Training database which I am building, in order to track progressive overload and muscle growth.**
 
-- 🌱 I’m currently learning **About Data Science,**
+- 🌱 I’m currently learning **About Data Science and JavaScript,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuidoSimoncini?tab=repositories](https://github.com/GuidoSimoncini?tab=repositories)
 
